@@ -4,7 +4,8 @@
 - 📚 The adventures of a lady programmer translator.
 - 😉 Available to collaborate on game-changing and disruptive projects and ideas.
 - 🤖 Obsessed with translation, coding, and books!
-- 🎓 Bachelor's degree.
-- 🎓 Specialized in English Language Translation.
-- 🎓 Specialized in Spanish Language Translation.
+- 🎓 Bachelor's degree (Universidade Paulista).
+- 🎓 Specialized in English Language Translation/Non-Degree Graduate Program (Universidade Estácio de Sá).
+- 🎓 Specialized in Spanish Language Translation/Non-Degree Graduate Program (Universidade Estácio de Sá).
+- 💻🇧🇷 Expected admission to the Computer Science undergraduate program in 2023.
 

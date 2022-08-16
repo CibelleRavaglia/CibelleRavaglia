@@ -7,4 +7,4 @@
 - 🎓 Bachelor's degree.
 - 🎓 Specialized in English Language Translation.
 - 🎓 Specialized in Spanish Language Translation.
-![Snake animation](https://github.com/CibelleRavaglia/CibelleRavaglia/blob/output/github-contribution-grid-snake.svg)
+

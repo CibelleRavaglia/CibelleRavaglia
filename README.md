@@ -7,5 +7,6 @@
 - 🎓 Bachelor's degree (Universidade Paulista).
 - 🎓 Specialized in English Language Translation/Non-Degree Graduate Program (Universidade Estácio de Sá).
 - 🎓 Specialized in Spanish Language Translation/Non-Degree Graduate Program (Universidade Estácio de Sá).
-- 💻🇧🇷 Expected admission to the Computer Science undergraduate program in 2023.
+- 💻 Mentoring a Data Scientist at Mentorama.
+- 💻 Expected admission to the Computer Science undergraduate program in 2023.
 

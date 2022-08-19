@@ -1,4 +1,17 @@
-- 👋 Hi, I’m @CibelleRavaglia!
+#**Hi, I’m @CibelleRavaglia**👋
+
+___
+
+![GitHubProfile](https://user-images.githubusercontent.com/111368613/185630657-c2dc6e58-7ecb-4a0a-8794-2aaeb1f82cea.png)
+
+
+___
+
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Silkscreen&size=24&duration=5012&pause=1000&color=F7CD0C&width=440&height=55&lines=Loading...;Tradutora+programadora...;Upando+informa%C3%A7%C3%B5es...;Data+Science+em+forma%C3%A7%C3%A3o...;Python%2C+R...;Fazendo+Mentorama...)](https://git.io/typing-svg)
+
+
 - 👀 I'm in a career transition.
 - 🌱 I’m currently learning Python, SQL, R, and Data Science.
 - 📚 The adventures of a lady programmer translator.

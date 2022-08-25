@@ -24,6 +24,7 @@ ___
 - 💻 Expected admission to the Computer Science undergraduate program in 2023.
 
 
+
 **Languages and tools being learned:**
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="30" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="30" height="30" />
@@ -33,7 +34,8 @@ ___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width= "30" height="30" />
 
-___
+
+
 
 ![Snake animation](https://github.com/CibelleRavaglia/CibelleRavaglia/blob/output/github-contribution-grid-snake.svg)
           

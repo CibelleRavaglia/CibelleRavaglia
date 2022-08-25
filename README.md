@@ -32,6 +32,10 @@ ___
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30" height="30" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="30" height="30"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width= "30" height="30" />
+
+___
+
+![Snake animation](https://github.com/CibelleRavaglia/CibelleRavaglia/blob/output/github-contribution-grid-snake.svg)
           
           
           
